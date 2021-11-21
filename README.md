@@ -1,2 +1,2 @@
 # Cpp-Workshop
-This repository contains material f workshop along wiht resources to learn/practice C++
+This repository contains material of workshop along with resources to learn/practice C++
